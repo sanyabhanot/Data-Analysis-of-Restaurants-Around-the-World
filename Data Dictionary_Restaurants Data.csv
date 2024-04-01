@@ -1,0 +1,22 @@
+Fields,Description
+Restaurant ID,Unique Identification number of the restaurant
+Restaurant Name,Name of the restaurant
+Country Code,Unique code of the country restaurant is located
+City,City the restaurant is situated
+Address,Address of the restaurant
+Locality,Locality of the restaurant
+Locality Verbose,Detailed description of the locality.
+Longitude,Longitude coordinate of the restaurant's location
+Latitude,Latitude coordinate of the restaurant's location
+Cuisines,Types of cuisines offered at the restaurants
+Average Cost for two,Average cost of two people dining at the restaurant
+Currency,Currency accepted at the restaurant
+Has Table booking,Does the restaurant have table booking service
+Has Online delivery,Does the restaurant have online delivery service
+Is delivering now,Is the restaurant delivering now
+Switch to order menu,Does the restaurant have menu to order
+Price range,The price range of the restaurant ( 1 being the lowest)
+Aggregate rating,Aggregate rating of the restaurant
+Rating color,Color of the rating (Dark green being the highest)
+Rating text ,Type of rating
+Votes,Number of votes received 
